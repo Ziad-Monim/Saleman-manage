@@ -16,6 +16,7 @@
             * I add new group as Top manager that the one approve for big discounts or rejected it
             * if rejected and the saleman can contiue negotiate with the customer and set the quotation to
               draft with duplicate or create new one
+            * for the sales_team_ change the name to sales_team in your addons and replace it the one there
         """,
     'data': [
         'views/test_view.xml',
